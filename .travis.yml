@@ -1,5 +1,4 @@
 language: haskell
 ghc: 7.8.4
-cabal: 1.22.3.0
 notifications:
   email: false

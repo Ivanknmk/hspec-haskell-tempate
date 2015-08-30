@@ -13,7 +13,7 @@ maintainer:          ivanknmk@gmail.com
 category:            Template
 build-type:          Simple
 extra-source-files:  README.md
-cabal-version:       >=1.22
+cabal-version:       >=1.18
 
 source-repository    head
   type:              git
