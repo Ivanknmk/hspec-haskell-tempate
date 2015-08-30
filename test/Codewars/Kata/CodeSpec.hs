@@ -1,4 +1,4 @@
-module Main.CodeSpec where
+module Codewars.Kata.CodeSpec where
 
 import SpecHelper
 

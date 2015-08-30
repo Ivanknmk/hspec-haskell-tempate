@@ -20,7 +20,7 @@ source-repository    head
   location:          git@github.com:Ivanknmk/hspec-haskell-tempate.git
 
 library
-  exposed-modules:     Main.Code
+  exposed-modules:     Codewars.Kata.Code
   -- other-modules:
   -- other-extensions:
   build-depends:       base >=4.7 && <4.8
